@@ -1,0 +1,2 @@
+﻿домашка.obj : error LNK2005: "int __cdecl sum(int,int)" (?sum@@YAHHH@Z) already defined in helpers.obj
+C:\Users\den-p\source\repos\домашка\x64\Debug\домашка.exe : fatal error LNK1169: one or more multiply defined symbols found
